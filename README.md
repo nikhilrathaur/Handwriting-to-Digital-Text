@@ -14,7 +14,7 @@ I have worked this for single line input. The input image is
 ![Image input line](https://github.com/nikhilrathaur/Handwriting-to-Digital-Text/blob/master/handwriting2.jpg)
 
 
-The output is saved in the result.txt file. I have put the screeshot of the output txt file below
+The output is saved in the result.txt file. I have put the screeshot of the output txt file below and here https://github.com/nikhilrathaur/Handwriting-to-Digital-Text/blob/master/result.txt
 
 ![Image Output Screenshot](https://github.com/nikhilrathaur/Handwriting-to-Digital-Text/blob/master/Screenshot%20(587).png)
 
